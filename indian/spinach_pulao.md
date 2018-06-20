@@ -6,28 +6,28 @@
  ### Ingredients
 
  #### Whole Spices
- ..* 1 inch cinnamon
- ..* small star anise
- ..* 1 green cardamons
- ..* 2 cloves
- ..* 4 Curry leaf
- ..* 1 pinch mace
+ * 1 inch cinnamon
+ * small star anise
+ * 1 green cardamons
+ * 2 cloves
+ * 4 Curry leaf
+ * 1 pinch mace
 
  #### Dry spice powders
- ..* 1/4 teaspoon ed chili powder
- ..* 1/4 teaspoon garam masala powder
- ..* 1/4 tumeric powder
- ..* 1/2 cumin powder
- ..* 1 teaspoon coriander powder
- ..* 1 pinch asafoetida
+ * 1/4 teaspoon ed chili powder
+ * 1/4 teaspoon garam masala powder
+ * 1/4 tumeric powder
+ * 1/2 cumin powder
+ * 1 teaspoon coriander powder
+ * 1 pinch asafoetida
 
  #### Vegetables
- ..* 1 bunch of spinach
- ..* 1 onion
- ..* 1/2 cup coriander leaves
- ..* 2 green chillies
- ..* 1/2 cup mint leaves
- ..* 2 spoon ginder garlic paste
+ * 1 bunch of spinach
+ * 1 onion
+ * 1/2 cup coriander leaves
+ * 2 green chillies
+ * 1/2 cup mint leaves
+ * 2 spoon ginder garlic paste
 
 
 Steps:
